@@ -34,23 +34,24 @@ Welcome to **Themes One One**! This project is a **Spring Boot application** tha
 ## 📊 **Project Structure**
 ### 📁 File Structure
 
-Themes One-one/
+Themes One-One/
 │
 ├── src/
 │   ├── main/
 │   │   ├── java/
 │   │   │   ├── com/
-│   │   │   │   ├── Themes One/
+│   │   │   │   ├── ThemesOne/
 │   │   │   │   │   ├── controllers/
 │   │   │   │   │   ├── models/
 │   │   │   │   │   ├── repository/
 │   │   │   │   │   ├── security/
 │   │   │   │   │   └── services/
-│   │   ├── resources/
-│   │   │   ├── application.properties
-│   │   │   └── templates/
+│   ├── resources/
+│   │   ├── application.properties
+│   │   └── templates/
 ├── pom.xml
 └── README.md
+
 
 ### Folder Breakdown:
 controllers/: REST controllers to handle incoming requests.
